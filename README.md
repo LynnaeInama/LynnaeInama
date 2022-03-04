@@ -14,7 +14,7 @@
   ---
 <div id="header" align="left">
 About Me :
-I am a back end software developer just starting out.  I have spent 27 years as an Accountant / Accounting Analyst.  I decided a career change was in order, or even the possibility of meshing the Accounting Analyst with the Developer role to help organizations out. I love to code and have enjoyed the learning process.  Every day I am excited to discover what I am going to learn.  Currently we are learning to code Java and have covered Conditionals and Loops.
+I am a back end software developer just starting out.  I have spent 27 years as an Accountant / Accounting Analyst.  I decided a career change was in order, or even having the two skillsets piggyback off eachother to help organizations out. One thing is for sure, I love to code and have enjoyed the learning process.  Every day I am excited to discover what I am going to learn next.  Currently we are learning to code Java and have covered Conditionals and Loops.
 
   ---
 ### :computer: Languages and Tools : 

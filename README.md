@@ -9,14 +9,13 @@
 </div>
 </h1>
  <div id="header" align="left">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </div> 
-  
+
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynnaeinama/) 
   ---
 <div id="header" align="left">
 About Me :
 ---
-I am a back end software developer just starting out.  I have spent 27 years as an Accountant / Accounting Analyst.  I decided for the career change or rather to mesh to two skillsets together to help create efficiencies and add I love to code and have enjoyed the learning process.  Currently we are learning to code Java and have covered Conditionals and Loops.
+I am a back end software developer just starting out.  I have spent 27 years as an Accountant / Accounting Analyst.  I decided for the career change was in order.  I love to code and have enjoyed the learning process.  Every day I am excited to discover what I am going to learn.  Currently we are learning to code Java and have covered Conditionals and Loops.
 
   ---
 ### :computer: Languages and Tools : 
@@ -27,5 +26,6 @@ I am a back end software developer just starting out.  I have spent 27 years as 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
- :mailbox:How to reach me : 
-  [!["Linkedin Badge"](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynnaeinama/)
+ How to reach me : 
+ :mailbox: Lynnae.Inama@gmail.com
+ OR : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynnaeinama/)

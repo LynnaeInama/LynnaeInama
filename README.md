@@ -10,12 +10,13 @@
 </h1>
  <div id="header" align="left">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </div> 
+ </div> 
   
   ---
 <div id="header" align="left">
 About Me :
-I am a back end software developer just starting out.  I love to code and have enjoyed the learning process.  Currently we are learning to code Java and have covered Conditionals and Loops.
+---
+I am a back end software developer just starting out.  I have spent 27 years as an Accountant / Accounting Analyst.  I decided for the career change or rather to mesh to two skillsets together to help create efficiencies and add I love to code and have enjoyed the learning process.  Currently we are learning to code Java and have covered Conditionals and Loops.
 
   ---
 ### :computer: Languages and Tools : 
@@ -26,4 +27,5 @@ I am a back end software developer just starting out.  I love to code and have e
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynnaeinama/)
+ :mailbox:How to reach me : 
+  [!["Linkedin Badge"](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynnaeinama/)
